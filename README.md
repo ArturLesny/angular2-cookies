@@ -1,9 +1,10 @@
 # Angular2Cookies
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+Projekt pokazuje moÅ¼liwoÅ›Ä‡ wstawienia komunikatu o korzystaniu z plikÃ³w cookies.
 
-Projekt pokazuje mo¿liwoœæ wstawienia komunikatu o korzystaniu z plików cookies.
-Rozwi¹zanie wykorzystuje bibliotekê angular2-cookie.
+RozwiÄ…zanie wykorzystuje bibliotekÄ™ angular2-cookie.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
 
